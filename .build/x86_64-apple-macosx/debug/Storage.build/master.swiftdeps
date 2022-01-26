@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1643188086, 728053092]
+build_end_time: [1643188098, 765594005]
+inputs:
+  "/Users/vagrant/git/Sources/Storage/DataConvertible.swift": [1643187970, 370602607]
+  "/Users/vagrant/git/Sources/Storage/DelegatedStorage.swift": [1643187970, 371354103]
+  "/Users/vagrant/git/Sources/Storage/Storage.swift": [1643187970, 371644496]
+  "/Users/vagrant/git/Sources/Storage/StorageData.swift": [1643187970, 371882915]
+  "/Users/vagrant/git/Sources/Storage/StorageDelegate.swift": [1643187970, 372103929]
+  "/Users/vagrant/git/Sources/Storage/Store.swift": [1643187970, 372318744]
